@@ -1,2 +1,7 @@
-console.log(__dirname)
-console.log(process)
+// GLOBALS
+// __dirname
+// __filename
+// require
+// module
+// process
+
